@@ -2,6 +2,9 @@
 
 All Skills Workshops held at Makers Academy.
 
+# to push changes
+
+`git push shwetz master`
 ## What are Skills Workshops?
 
 Whole-cohort activities that take 1 - 1.5 hours. Each trains a specific skill, while addressing certain concepts along the way.
